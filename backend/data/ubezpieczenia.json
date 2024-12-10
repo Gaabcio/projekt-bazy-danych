@@ -1,0 +1,16 @@
+[{
+    "_id": "1",
+    "vin": "1HGCM82633A123456",
+    "firmaUbezpieczeniowa": "PZU",
+    "typUbezpieczenia": "OC",
+    "dataRozpoczecia": "2023-03-01",
+    "dataZakonczenia": "2024-03-01"
+},
+{
+    "_id": "2",
+    "vin": "2HGCM82633A654321",
+    "firmaUbezpieczeniowa": "Allianz",
+    "typUbezpieczenia": "AC",
+    "dataRozpoczecia": "2022-07-01",
+    "dataZakonczenia": "2023-07-01"
+}]

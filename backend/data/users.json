@@ -1,0 +1,15 @@
+[
+  {
+    "_id": 1,
+    "login": "admin@serwis.pl",
+    "password": "admin123",
+    "rola": "administrator"
+  },
+  {
+    "_id": 2,
+    "login": "djj@dsd.pl",
+    "password": "dsdsdsdsd",
+    "rola": "user",
+    "name": "Yanusj"
+  }
+]

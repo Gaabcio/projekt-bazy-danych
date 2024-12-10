@@ -1,0 +1,65 @@
+[{
+    "_id": "1",
+    "vin": "1HGCM82633A123456",
+    "marka": "Opel",
+    "model": "Corsa",
+    "rokProdukcji": 2000,
+    "typ": "Osobowy",
+    "liczbaDrzwi": 3,
+    "kolor": "Czerwony",
+    "przebieg": 150000,
+    "pojemnoscSilnika": 1400,
+    "historiaSerwisowa": [
+        {
+            "data": "2023-05-10",
+            "opis": "Wymiana oleju",
+            "warsztat": "AutoService Plus"
+        },
+        {
+            "data": "2024-01-15",
+            "opis": "Wymiana hamulców",
+            "warsztat": "MotoFix"
+        }
+    ],
+    "właściciele": [
+        {
+            "imie": "Jan",
+            "nazwisko": "Kowalski",
+            "dataZakupu": "2010-06-15",
+            "dataSprzedazy": "2015-12-01"
+        },
+        {
+            "imie": "Adam",
+            "nazwisko": "Nowak",
+            "dataZakupu": "2016-01-02",
+            "dataSprzedazy": null
+        }
+    ]
+},
+
+{
+    "_id": "2",
+    "vin": "2HGCM82633A654321",
+    "marka": "Yamaha",
+    "model": "R1",
+    "rokProdukcji": 2015,
+    "typ": "Motor",
+    "pojemnoscSilnika": 1000,
+    "kolor": "Niebieski",
+    "przebieg": 30000,
+    "historiaSerwisowa": [
+        {
+            "data": "2022-07-20",
+            "opis": "Przegląd techniczny",
+            "warsztat": "MotoExpert"
+        }
+    ],
+    "właściciele": [
+        {
+            "imie": "Marek",
+            "nazwisko": "Dąbrowski",
+            "dataZakupu": "2015-09-10",
+            "dataSprzedazy": null
+        }
+    ]
+}]
